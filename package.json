@@ -1,0 +1,24 @@
+{
+  "name": "redux-notifier",
+  "version": "0.0.2",
+  "description": "Notification middleware for Redux Actions",
+  "entry": "dist/notifier.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redux",
+    "notifier",
+    "notification",
+    "react",
+    "middleware"
+  ],
+  "author": "Sanskar Modi <sanskarmodi97@gmail.com> (https://github.com/sanskar-modi)",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.17.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.16.0",
+    "webpack": "^1.13.2"
+  }
+}
